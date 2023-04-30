@@ -1,8 +1,8 @@
-## Hello there, my name is lulu👋
-<p> I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.
+## 👋 Hi, my name is lulu
+<p> I'm a young developer who likes to create new things, I also like mapping, I'm currently mapping on source-engine and Unreal Engine.
 </p>
 
-# 🔎 How to reach me
+# 🔎 How to find me
 [![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:lulusasadu54@gmail.com)
 [![](https://img.shields.io/badge/Steam-1c2f45?logo=Steam)](https://steamcommunity.com/id/lulusasadu54)
 [![](https://img.shields.io/badge/Discord-1c2f45?logo=Discord)](https://discordapp.com/users/545606842852573195)
